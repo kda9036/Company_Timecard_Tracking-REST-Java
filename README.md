@@ -20,4 +20,4 @@ Refer to the EER Diagram for the database for datatypes and sizes.
 
 # Technologies / Software
 
-Java, WildFly (application server), Maven, REST
+Java, WildFly (application server), Maven, REST, JSON, Postman
